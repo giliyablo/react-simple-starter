@@ -13,7 +13,7 @@
     "react": {
       "createClass": "createClass",
       "pragma": "React",
-      "version": "15.3"
+      "version": "15.4.2"
     }
   },
 
